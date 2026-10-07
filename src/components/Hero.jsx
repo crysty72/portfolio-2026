@@ -41,14 +41,13 @@ export default function Hero() {
           Contactarme
         </a>
 
-        <a
-          href="/cv/Cristina-Carrizo-CV-2026.pdf"
-          download="Cristina-Carrizo-CV-2026.pdf"
-          className="btn"
-        >
-          Descargar CV
-        </a>
-
+       <a
+  href="/cv/Cristina_N_Carrizo_CV_2026.pdf"
+  download="Cristina_N_Carrizo_CV_2026.pdf"
+  className="btn"
+>
+  Descargar CV
+</a>
       </div>
 
     </section>
